@@ -28,3 +28,7 @@ dotnet ef migrations add InitialCreate -o Infrastructure/Migrations
 dotnet ef database update
 
 dotnet run
+
+# Tesing
+
+Using Swagger or Postman to testing Web API
